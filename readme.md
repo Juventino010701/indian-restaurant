@@ -1,1 +1,1 @@
-Responsive Indian restaurant website by using HTML, CSS, and Javascript.
+Responsive Indian restaurant website by using HTML, CSS, and Javascript!
